@@ -1,0 +1,71 @@
+
+.navbarmenu{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(56, 37, 27);
+}
+
+.nav-item{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(56, 37, 27);
+}
+
+.navbar-brand {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(56, 37, 27);
+}
+
+.tituloseccionuno{
+    font-family: 'Rubik Glitch', cursive;
+
+}
+
+.titulo-secciondos{
+    font-family: 'Passion One', cursive;
+}
+
+.parrafos {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.botonsecciondos {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.parrafossecciontres {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 45px;
+}
+
+.titulogaleria{
+    font-family: 'Russo One', sans-serif;
+
+}
+
+
+.titulodescuentos{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+.footer{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.accordion-item {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: unset;
+}
+
+.titulocarrito{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.parrafocarrito{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.parrafocontacto {
+    font-family: 'Amatic SC', cursive;
+}
